@@ -1,4 +1,5 @@
 Pokédex
+
 Ceci est une application web simple qui affiche des informations sur différents Pokémon en utilisant l'API PokeAPI. Elle récupère les données de l'API et crée dynamiquement des cartes Pokémon avec leurs images, leurs noms et leurs types.
 
 Utilisation
